@@ -1,0 +1,21 @@
+# Core dependencies
+python-dotenv>=1.0.0
+numpy>=1.21.0
+sounddevice>=0.4.6
+soundfile>=0.10.3
+
+# STT (Whisper)
+openai-whisper>=20231117
+
+# TTS (ElevenLabs)
+elevenlabs>=2.3.0
+
+# Google Gen AI (Gemma 3)
+google-genai>=0.1.0
+
+# Audio processing
+pyaudio>=0.2.13
+wave>=0.0.2
+
+# Utils
+tqdm>=4.65.0
